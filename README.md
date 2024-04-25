@@ -1,4 +1,4 @@
-# Studying Graphical Perception of the Visually Impaired
+# Understanding Low Vision Graphical Perception of Bar Charts
 
 ## About the project
 
